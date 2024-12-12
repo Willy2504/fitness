@@ -1,0 +1,91 @@
+/* Import Google Fonts */
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Set background color to black */
+  ion-content {
+    --background: #000;
+    color: #fff;
+  }
+  
+  /* Greeting container */
+  .greeting-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Greeting text */
+  .greeting-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4caf50; /* Green color for greeting */
+    margin: 10px 0;
+  }
+  
+  /* Greeting subtext */
+  .greeting-subtext {
+    font-size: 1rem;
+    color: #ccc;
+  }
+  
+  /* Style for stat cards */
+  .stat-card {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  
+  /* Stat icons */
+  .stat-icon {
+    font-size: 2rem;
+    color: #4caf50; /* Green color for icons */
+    margin-bottom: 10px;
+  }
+  
+  /* Header title color */
+  ion-title {
+    color: #fff;
+  }
+  .goal-progress {
+    margin-top: 20px;
+  }
+  
+  .goal-progress h2 {
+    color: #4caf50;
+    margin-bottom: 10px;
+  }
+  
+  .goal-progress ion-card {
+    margin-top: 10px;
+  }
+  
+  .goal-progress p {
+    color: #fff;
+    margin-bottom: 5px;
+  }
+  .quote-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .motivational-quote {
+    font-style: italic;
+    color: #ccc;
+    font-size: 1.2rem;
+  }
+  .quick-actions {
+    margin-top: 20px;
+  }
+  .weather-widget {
+  text-align: center;
+  background-color: #222;
+  padding: 10px;
+  border-radius: 12px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+      
